@@ -48,6 +48,7 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 ## 🤖 Machine Learning Models
 ### 📌 1. **Linear Regression (Gradient Descent)**
 ✔ Selected features based on correlation.
+
 ✔ Achieved **R² score = 0.8675** (Good performance).
 
 ### 📌 2. **Logistic Regression**
