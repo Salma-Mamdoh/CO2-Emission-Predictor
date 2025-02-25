@@ -61,8 +61,11 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 
 ## 🚀 Key Takeaways
 ✅ Preprocessing (scaling & encoding) is essential.
+
 ✅ Feature selection improves model accuracy.
+
 ✅ Linear regression performed well.
+
 ✅ Class imbalance affects classification models.
 
 ---
