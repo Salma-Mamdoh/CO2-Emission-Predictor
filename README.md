@@ -1,4 +1,4 @@
-# Machine Learning Assignment 1
+# Machine Learning CO₂ Emission Predictor
 
 ## 📖 Project Overview
 This project involves analyzing the `co2_emissions_data.csv` dataset using Python, performing data preprocessing, implementing machine learning models, and evaluating their performance.
@@ -48,10 +48,12 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 ## 🤖 Machine Learning Models
 ### 📌 1. **Linear Regression (Gradient Descent)**
 ✔ Selected features based on correlation.
+
 ✔ Achieved **R² score = 0.8675** (Good performance).
 
 ### 📌 2. **Logistic Regression**
 ✔ Implemented using `SGDClassifier` (loss=`log_loss`, max_iter=2000).
+
 ✔ **Performance Analysis:**
   - **High Class:** Excellent prediction.
   - **Low Class:** Poor due to class imbalance.
