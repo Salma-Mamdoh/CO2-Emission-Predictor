@@ -52,6 +52,7 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 
 ### 📌 2. **Logistic Regression**
 ✔ Implemented using `SGDClassifier` (loss=`log_loss`, max_iter=2000).
+
 ✔ **Performance Analysis:**
   - **High Class:** Excellent prediction.
   - **Low Class:** Poor due to class imbalance.
