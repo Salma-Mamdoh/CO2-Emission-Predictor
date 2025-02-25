@@ -1,4 +1,4 @@
-# Machine Learning Assignment 1
+# Machine Learning CO2 Emission Predictor
 
 ## 📖 Project Overview
 This project involves analyzing the `co2_emissions_data.csv` dataset using Python, performing data preprocessing, implementing machine learning models, and evaluating their performance.
