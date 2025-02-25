@@ -36,8 +36,11 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 ## 🛠 Data Preprocessing
 ### ✅ Steps:
 1️⃣ **Feature & Target Separation**
+
 2️⃣ **Data Splitting** (Training & Testing)
+
 3️⃣ **Encoding Categorical Variables**
+
 4️⃣ **Scaling Numerical Features**
 
 ---
