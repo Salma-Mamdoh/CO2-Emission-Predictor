@@ -72,18 +72,19 @@ This project involves analyzing the `co2_emissions_data.csv` dataset using Pytho
 
 ## 🛠 Technologies & Libraries Used
 🔹 **Python**
+
 🔹 **Pandas, NumPy** (Data manipulation)
+
 🔹 **Matplotlib, Seaborn** (Data visualization)
+
 🔹 **Scikit-learn** (ML models & evaluation)
 
 ---
 
 ## 🔮 Future Enhancements
 🔹 Handle class imbalance with oversampling or weighting.
+
 🔹 Experiment with polynomial regression.
+
 🔹 Test other classification models.
-
----
-
-### 📌 **Authors: Team Members (Cairo University)**
 
